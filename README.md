@@ -1,2 +1,2 @@
-Learning Git Basics [Added via GitLab]
+Learning more Git Basics [Added via local repo]
 Learnt about git clone/status/log/add/commit commands
